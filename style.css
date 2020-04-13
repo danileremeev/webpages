@@ -7,16 +7,16 @@
       -Description: [Webpages independent assignment]
 */
  
-body {
+body {	
 	background-color:#F5E9E7 ;
-}
+} /* background selector */
 
 .table-border {
     border: 1px solid #6250A1 ;
-}
+} /* table selector */
 
 #photostyle {
     max-width: 200px ;
 	max-height: 250px ;
 	border: 2px outset #32CD32 ;
-}
+} /* image selector */
