@@ -2,23 +2,21 @@
     <!--
       -Name: [Danil Eremeev]
       -UnityID: [deremee]
-      -Date: [4/10/2020]
-      -Assignment: [Webpages GL]
-      -Description: [Webpages guided lab, about me webpage]
+      -Date: [4/12/2020]
+      -Assignment: [Webpages IA]
+      -Description: [Webpages independent assignment]
 */
  
-p {
-    font-family:Times ;
-	font-size: 16px;
-	color: #FFFFFF;
-	}
-
-.table-border {
-    border: 1px solid #FFFFFF ;
-	
+body {
+	background-color:#F5E9E7 ;
 }
 
-#photo-resize {
-    max-width: 250px ;
-	max-height: 300px ;
+.table-border {
+    border: 1px solid #6250A1 ;
+}
+
+#photostyle {
+    max-width: 200px ;
+	max-height: 250px ;
+	border: 2px outset #32CD32 ;
 }
